@@ -1,1 +1,1 @@
-INSERT INTO course_catalog(id,code,name) VALUES (1,"CPSC-6030","Data Visualization","Data and Informatics",'["STAT 2300"]');
+INSERT INTO course_catalog(course_number,id,code,name,credit_hours,course_description,concentration,prerequisites,offer_date) VALUES (1,"CPSC-6030","Data Visualization",3,"N/A","Data and Informatics",'["STAT 2300"]',null);
